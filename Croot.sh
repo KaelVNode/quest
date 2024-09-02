@@ -4,8 +4,8 @@ YELLOW='\033[1;33m'
 BOLD='\033[1m'
 NC='\033[0m'
 
-echo -e "${CYAN}${BOLD}*     1 Click Garap Rainbow Protocol by           *${NC}"
-echo -e "${CYAN}${BOLD}*               Airdrop Sultan                    *${NC}"
+echo -e "${CYAN}${BOLD}*              Langsung Crot aja ya          *${NC}"
+echo -e "${CYAN}${BOLD}*               Saandy codeblocks                   *${NC}"
 echo ""
 echo -e "${YELLOW}${BOLD}This entire code is created by Brian (x.com/brianeedsleep)${NC}"
 echo -e "${YELLOW}${BOLD}Make sure you have joined t.me/airdropsultanindonesia${NC}"
